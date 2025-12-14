@@ -1,0 +1,102 @@
+[
+    {
+        "original": "Estoy aquí para recoger (entregar) la carga.",
+        "translation": "I am here to pick up (drop off) the load.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "¿Dónde está el muelle de carga número 3?",
+        "translation": "Where is loading dock number 3?",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "Aquí está mi conocimiento de embarque (BOL).",
+        "translation": "Here is my bill of lading (BOL).",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "Necesito un sello en mi papeleo.",
+        "translation": "I need a stamp on my paperwork.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "¿Cuánto tiempo de espera habrá?",
+        "translation": "How long will the wait be?",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "Necesito hacer un 'swap' de remolques.",
+        "translation": "I need to do a trailer swap.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "Por favor, abra la puerta de mi remolque.",
+        "translation": "Please open my trailer door.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "La carga debe ser paletizada.",
+        "translation": "The cargo must be palletized.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "¿Puede asegurar la carga?",
+        "translation": "Can you secure the load?",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "La mercancía parece dañada.",
+        "translation": "The merchandise looks damaged.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "Necesito mi número de registro de la cita.",
+        "translation": "I need my appointment check-in number.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "El peso está distribuido incorrectamente.",
+        "translation": "The weight is distributed incorrectly.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "¿Tienen un baño disponible para conductores?",
+        "translation": "Do you have a restroom available for drivers?",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "Por favor, coloque los conos de seguridad.",
+        "translation": "Please place the safety cones.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "Mi refrigerador no está funcionando.",
+        "translation": "My reefer unit is not working.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "Verifique la temperatura requerida.",
+        "translation": "Verify the required temperature.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "El candado del remolque está roto.",
+        "translation": "The trailer lock is broken.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "¿Dónde firmo la hoja de inspección?",
+        "translation": "Where do I sign the inspection sheet?",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "Tengo una entrega urgente.",
+        "translation": "I have an urgent delivery.",
+        "category": "Carga y Documentación"
+    },
+    {
+        "original": "¿Puedo esperar en la sala de descanso?",
+        "translation": "May I wait in the break room?",
+        "category": "Carga y Documentación"
+    }
+]

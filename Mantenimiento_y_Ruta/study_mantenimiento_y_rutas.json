@@ -1,0 +1,102 @@
+[
+    {
+        "original": "¿Tiene problemas mecánicos?",
+        "translation": "Do you have mechanical issues?",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Mi motor está sobrecalentándose.",
+        "translation": "My engine is overheating.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Necesito un taller de reparación cercano.",
+        "translation": "I need a nearby repair shop.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Tengo una llanta baja (pinchada).",
+        "translation": "I have a flat tire.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "¿Dónde puedo recargar refrigerante?",
+        "translation": "Where can I refill coolant?",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "El freno de aire no está funcionando correctamente.",
+        "translation": "The air brake is not working properly.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Mi remolque está haciendo un ruido extraño.",
+        "translation": "My trailer is making a strange noise.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Necesito cambiar el aceite del motor.",
+        "translation": "I need to change the engine oil.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Apague el motor, por favor.",
+        "translation": "Turn off the engine, please.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "¿Estoy en la carretera correcta?",
+        "translation": "Am I on the correct highway?",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "¿Cómo llego a la salida número 15?",
+        "translation": "How do I get to exit number 15?",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Gire a la izquierda en el próximo semáforo.",
+        "translation": "Turn left at the next traffic light.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Continúe por esta calle por tres millas.",
+        "translation": "Continue on this road for three miles.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Estoy buscando un lugar para estacionar mi camión.",
+        "translation": "I am looking for a place to park my truck.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "¿Hay una báscula cerca?",
+        "translation": "Is there a weigh station nearby?",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Voy hacia el norte (sur, este, oeste).",
+        "translation": "I am heading North (South, East, West).",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "¿Cuál es el límite de velocidad para camiones?",
+        "translation": "What is the speed limit for trucks?",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Siga las señales de desvío.",
+        "translation": "Follow the detour signs.",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Necesito salir de la Interestatal (I-5).",
+        "translation": "I need to get off the Interstate (I-5).",
+        "category": "Mantenimiento y Ruta"
+    },
+    {
+        "original": "Mi GPS se ha quedado sin señal.",
+        "translation": "My GPS has lost signal.",
+        "category": "Mantenimiento y Ruta"
+    }
+]
